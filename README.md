@@ -9,7 +9,7 @@ Building modern web platforms, digital marketplaces, and scalable acquisition en
 
 * ⚡ **Full-Stack Developer** bridging software engineering, performance marketing, and workflow automation.
 * 🛠️ Creator of **[AjinssaWeb](#)**: A modern digital marketplace engineered with **Next.js** and **TypeScript**.
-* 🚀 Founder of **[Ajiboost](#)**: B2B acquisition platform and growth marketing framework.
+* 🚀 Founder of **[Ajiboost](https://ajiboost.com)**: B2B acquisition platform and growth marketing framework.
 * 🛒 Developer of high-conversion e-commerce ecosystems (**Ecomarket**, **Marmite**) focused on speed, UX, and advanced tracking (GA4 / Meta Pixels).
 
 ---
@@ -56,11 +56,11 @@ Building modern web platforms, digital marketplaces, and scalable acquisition en
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elkissiimad9&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elkissiimad9&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 📬 Connect with me
-* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)
+* **LinkedIn:** [Imad El Kissi](https://linkedin.com)
 * **Website:** [Ajiboost](https://ajiboost.com)
