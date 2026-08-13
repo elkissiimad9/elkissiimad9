@@ -53,10 +53,10 @@ Building modern web platforms, digital marketplaces, and scalable acquisition en
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elkissiimad9&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elkissiimad9&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
