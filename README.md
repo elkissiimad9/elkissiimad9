@@ -1,21 +1,11 @@
-<!-- EN-TÊTE ANIMÉ STYLE NEON / CYBERPUNK -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=IMAD%20EL%20KISSI&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Growth%20Engineer%20%E2%9A%A1%EF%B8%8F&descSize=20&descAlignY=65&fontColor=38BDF8" width="100%" />
-
-<!-- EFFET DE SAISIE LASER TERMINAL -->
+<!-- TYPING ANIMATION (ENTÊTE) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=650&lines=%3C%2F%3E+Full-Stack+%26+Growth+Engineer;%F0%9F%9A%80+Building+Next.js+%2B+TypeScript+Marketplaces;%E2%9A%99%EF%B8%8F+n8n+Automation+Nodes+%2B+AI+Engines;%F0%9F%93%90+High-Conversion+E-Commerce+%26+Tracking" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vcenter=true&width=700&lines=🚀+IMAD+EL+KISSI;Full-Stack+%26+Growth+Engineer;Next.js+%2B+TypeScript+%2B+Python;Building+Marketplaces+%26+Automation;n8n+Custom+Nodes+%26+AI+Engines" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- ILLUSTRATION PIXEL ART ANIMÉE -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="480px" alt="Developer Animation" />
-</p>
-
-<p align="center">
-  <img src="https://readme-swatches.vercel.app/0d1117" alt="divider" />
-</p>
+---
 
 ### 💡 About Me
 
@@ -28,7 +18,7 @@
 
 ### 🛠️ Tech Stack & Powers
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,js,python,nodejs,express,git,github,vscode,docker" alt="Tech Stack Icons" />
 </p>
 
@@ -50,14 +40,6 @@
 > High-performance digital storefronts built for scale and analytics accuracy.
 > * **Tech:** Web Storefronts, Meta Pixel, Custom Analytics Integration
 > * **Highlights:** Fast load times, optimized checkout funnels, precision event tracking
-
----
-
-### 🐍 Contribution Snake Game
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
 
 ---
 
