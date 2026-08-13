@@ -1,12 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=200&section=header&text=Imad%20El%20Kissi&fontSize=42&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%26%20Growth%20Engineer&descSize=20&descAlignY=62" width="100%" />
+<!-- EN-TÊTE ANIMÉ STYLE NEON / CYBERPUNK -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=IMAD%20EL%20KISSI&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Growth%20Engineer%20%E2%9A%A1%EF%B8%8F&descSize=20&descAlignY=65&fontColor=38BDF8" width="100%" />
 
+<!-- EFFET DE SAISIE LASER TERMINAL -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Full-Stack+%26+Growth+Engineer;Next.js+%2B+TypeScript+%2B+Python;Building+Marketplaces+%26+Automation;n8n+Custom+Nodes+%26+Growth+Engines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=650&lines=%3C%2F%3E+Full-Stack+%26+Growth+Engineer;%F0%9F%9A%80+Building+Next.js+%2B+TypeScript+Marketplaces;%E2%9A%99%EF%B8%8F+n8n+Automation+Nodes+%2B+AI+Engines;%F0%9F%93%90+High-Conversion+E-Commerce+%26+Tracking" alt="Typing SVG" />
   </a>
 </p>
 
----
+<!-- ILLUSTRATION PIXEL ART ANIMÉE -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="480px" alt="Developer Animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-swatches.vercel.app/0d1117" alt="divider" />
+</p>
 
 ### 💡 About Me
 
@@ -17,23 +26,11 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Powers
 
-**Frontend & Web Apps**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend, Data & Automation**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-
-**Growth & Analytics**  
-![SEO](https://img.shields.io/badge/SEO_&_Local_Search-Google-4285F4?style=for-the-badge)
-![Analytics](https://img.shields.io/badge/GA4_&_Tracking-Orange?style=for-the-badge)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,js,python,nodejs,express,git,github,vscode,docker" alt="Tech Stack Icons" />
+</p>
 
 ---
 
@@ -56,7 +53,15 @@
 
 ---
 
-### 📊 GitHub Activity
+### 🐍 Contribution Snake Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
+
+### 📊 GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=elkissiimad9&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
