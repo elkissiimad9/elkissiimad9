@@ -1,7 +1,10 @@
-# 🚀 Imad El Kissi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=200&section=header&text=Imad%20El%20Kissi&fontSize=42&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%26%20Growth%20Engineer&descSize=20&descAlignY=62" width="100%" />
 
-**Full-Stack & Growth Engineer**  
-Building modern web platforms, digital marketplaces, and scalable acquisition engines.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Full-Stack+%26+Growth+Engineer;Next.js+%2B+TypeScript+%2B+Python;Building+Marketplaces+%26+Automation;n8n+Custom+Nodes+%26+Growth+Engines" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
